@@ -269,7 +269,7 @@ Validates model accuracy by comparing predicted VaR against realized P&L.
 
 ### Phase 1 — MVP
 
-- [ ] Market data simulator (GBM, configurable params, seed-based reproducibility)
+- [x] Market data simulator (GBM, configurable params, seed-based reproducibility)
 - [ ] Monte Carlo VaR engine with multi-asset correlation (Cholesky)
 - [ ] Expected Shortfall (CVaR) computation
 - [ ] Parametric VaR for validation/comparison
